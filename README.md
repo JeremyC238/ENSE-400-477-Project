@@ -2,7 +2,7 @@
 
 # Platform Fighing Game (Untitiled)
 
-* Developers:
+Developers:
 - Jeremy Cross
 - Taylen Jones
 
