@@ -1,5 +1,5 @@
 # ENSE-400-477-Project
-
+Fall 2019 Semester - Winter Semester 2020
 # Platform Fighing Game (Untitiled)
 Team Name:
 - Super Capstone Bros
