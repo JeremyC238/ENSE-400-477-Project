@@ -18,8 +18,8 @@ Presentations:
 * [Scrum Report-Out 25/10/2019](./Presentations/ENSE%20400%20Scrum%20Report-Out%2025_10_2019.pdf)
 
 Documentation
-* [Functional Requirements Document](./ocuments/Functional%20Requirements%20Document/FRD.pdf)
-* [I Mock-Up](./Documents/UI/Fighting%20Game%20UI.pdf)
+* [Functional Requirements Document](./Documents/Functional%20Requirements%20Document/FRD.pdf)
+* [UI Mock-Up](./Documents/UI/Fighting%20Game%20UI.pdf)
 
 Concept Art: 
 * [Concept Art](./Concept%20Art)
