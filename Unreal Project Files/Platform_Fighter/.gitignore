@@ -12,3 +12,14 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+
+# Folders
+SideScrollerBP/
+StarterContent/
+MedievalDungeon/
+Geometry/
+Mannequin/
+Developers/
+Collections/
+Intermediate/
+Saved/
