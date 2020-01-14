@@ -17,6 +17,7 @@ Presentations:
 * [Scrum Report-Out 11/10/2019](./Presentations/ENSE%20400%20Scrum%20Report-Out%2011_10_2019.pdf)
 * [Scrum Report-Out 25/10/2019](./Presentations/ENSE%20400%20Scrum%20Report-Out%2025_10_2019.pdf)
 * [Mentor Scrum Report-Out 22/11/2019](./Presentations/ENSE%20400%20Mentor%20Scrum%20Report-Out.pdf)
+* [Scrum Report-Out 14/1/2020](./Presentations/ENSE%20477%20Scrum%20Report-Out%2014_1_2020.pdf)
 
 Documentation
 * [Functional Requirements Document](./Documents/Functional%20Requirements%20Document/FRD.pdf)
