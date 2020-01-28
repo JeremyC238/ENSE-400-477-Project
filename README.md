@@ -1,4 +1,4 @@
-# ENSE-400-477-Project
+# ENSE 400/477 Capstone Project
 Fall 2019 Semester - Winter Semester 2020
 # Stride Champions (Platform Fighting Game)
 Team Name:
