@@ -1,4 +1,4 @@
-# ENSE-400-477-Project
+# ENSE 400/477 Capstone Project
 Fall 2019 Semester - Winter Semester 2020
 # Stride Champions (Platform Fighting Game)
 Team Name:
@@ -13,11 +13,12 @@ Our goal with this project is to expand our knowledge of game design and build a
 
 # Quick Links
 Presentations:
-* [Capstone Project Introduction](./Presentations/ENSE%20400_477%20Capstone%20Project%20Introductions.pdf)
-* [Scrum Report-Out 11/10/2019](./Presentations/ENSE%20400%20Scrum%20Report-Out%2011_10_2019.pdf)
-* [Scrum Report-Out 25/10/2019](./Presentations/ENSE%20400%20Scrum%20Report-Out%2025_10_2019.pdf)
-* [Mentor Scrum Report-Out 22/11/2019](./Presentations/ENSE%20400%20Mentor%20Scrum%20Report-Out.pdf)
-* [Scrum Report-Out 14/1/2020](./Presentations/ENSE%20477%20Scrum%20Report-Out%2014_1_2020.pdf)
+* [Capstone Project Introduction](./Presentations/Sept%2027%202019%20-%20ENSE%20400_477%20Capstone%20Project%20Introductions.pdf)
+* [Scrum Report-Out 11/10/2019](./Presentations/Oct%2011%202019%20-%20ENSE%20400%20Scrum%20Report-Out.pdf)
+* [Scrum Report-Out 25/10/2019](./Presentations/Oct%2025%202019%20-%20ENSE%20400%20Scrum%20Report-Out.pdf)
+* [Mentor Scrum Report-Out 22/11/2019](./Presentations/Nov%2022%202019%20-%20ENSE%20400%20Mentor%20Scrum%20Report-Out.pdf)
+* [Scrum Report-Out 14/1/2020](./Presentations/Jan%2014%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
+* [Scrum Report-Out 28/1/2020](./Presentations/Jan%2028%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
 
 Documentation
 * [Functional Requirements Document](./Documents/Functional%20Requirements%20Document/FRD.pdf)
