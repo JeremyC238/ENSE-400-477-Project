@@ -13,7 +13,7 @@ Our goal with this project is to expand our knowledge of game design and build a
 
 # Quick Links
 Presentations:
-* [Capstone Project Introduction](./Presentations/Sept%2027%202019%20-%20ENSE%20400_477%20Capstone%20Project%20Introductions.pdf)
+* [Capstone Project Introduction 27/9/2019](./Presentations/Sept%2027%202019%20-%20ENSE%20400_477%20Capstone%20Project%20Introductions.pdf)
 * [Scrum Report-Out 11/10/2019](./Presentations/Oct%2011%202019%20-%20ENSE%20400%20Scrum%20Report-Out.pdf)
 * [Scrum Report-Out 25/10/2019](./Presentations/Oct%2025%202019%20-%20ENSE%20400%20Scrum%20Report-Out.pdf)
 * [Mentor Scrum Report-Out 22/11/2019](./Presentations/Nov%2022%202019%20-%20ENSE%20400%20Mentor%20Scrum%20Report-Out.pdf)
