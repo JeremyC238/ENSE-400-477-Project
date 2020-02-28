@@ -22,8 +22,8 @@ Presentations:
 * [Scrum Report-Out 25/2/2020](./Presentations/Feb%2025%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
 
 Documentation
-* [Functional Requirements Document](./Documents/Functional%20Requirements%20Document/FRD.pdf)
-* [UI Mock-Up](./Documents/Product%20Requirements.doc)
+* [Functional Requirements Document](./Documents/Product%20Requirements.doc)
+* [UI Mock-Up](Documents/UI/Fighting%20Game%20UI.pdf)
 
 Concept Art: 
 * [Concept Art](./Concept%20Art)
