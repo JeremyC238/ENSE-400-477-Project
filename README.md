@@ -21,6 +21,7 @@ Presentations:
 * [Scrum Report-Out 28/1/2020](./Presentations/Jan%2028%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
 * [Scrum Report-Out 25/2/2020](./Presentations/Feb%2025%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
 * [Scrum Report-Out 3/3/2020](./Presentations/Mar%203%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
+* [Project Bazaar Report-Out 10/3/2020](./Presentations/Mar%2010%202020%20-%20ENSE%20477%20%20Project%20Bazaar%20Day%20Report-Out.pdf)
 
 Documentation
 * [Product Requirements Document](./Documents/Product%20Requirements.doc)
