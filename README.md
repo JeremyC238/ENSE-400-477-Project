@@ -25,7 +25,8 @@ Presentations:
 
 Documentation:
 * [Product Requirements Document](./Documents/Product%20Requirements.doc)
-* [UI Mock-Up](Documents/UI/Fighting%20Game%20UI.pdf)
+* [UI Mock-Up](./Documents/UI/Fighting%20Game%20UI.pdf)
+* [User Story Map](./Documents/USM.pdf)
 
 Concept Art: 
 * [Concept Art](./Concept%20Art)
