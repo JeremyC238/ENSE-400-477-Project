@@ -9,7 +9,7 @@ Developers:
 - Taylen Jones
 
 # Objective
-Our goal with this project is to expand our knowledge of game design and build a small platform fighting game that takes the best element from the franchise while expanding upon them with new ideas. By the end of this project we hope to gain the knowledge to either be able to continue developing this game or be able to develop something new.
+For the ENSE 400/477 terms we were aiming to build a platform fighting game with interesting characters, stages and interactive combat between two players. With a backstory for the characters and world as well as music all within a presentable user interface.
 
 # Operating Instructions
 We have provided three methods for running our game below. Hopefully methods 2 and 3 won't be nessesary, however they are there if needed.
