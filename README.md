@@ -11,6 +11,8 @@ Developers:
 # Objective
 For the ENSE 400/477 terms we were aiming to build a platform fighting game with interesting characters, stages and interactive combat between two players. With a backstory for the characters and world as well as music all within a presentable user interface.
 
+For this project we are ultimately trying to learn and expand our knowledge of game design, and the software behind it, rather than solve a specific problem. By the end we hope to have gained the knowledge to be able to potentially continue with this project or be able to delve into other projects involving game design. 
+
 # Operating Instructions
 We have provided three methods for running our game below. Hopefully methods 2 and 3 won't be nessesary, however they are there if needed.
 
