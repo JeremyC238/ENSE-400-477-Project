@@ -50,10 +50,11 @@ Final Video Presentation:
 * [Final Video Presentation 10/4/2020](./Presentations/Final%20Video%20Presentation.mp4)
 
 Documentation:
-* [Product Requirements Document](./Documents/Product%20Requirements.doc)
+* [Product Requirements Document](./Documents/Functional%20Requirements/Product%20Requirements.pdf)
 * [UI Mock-Up](./Documents/UI/Fighting%20Game%20UI.pdf)
-* [User Story Map](./Documents/USM.pdf)
-* [Code Quality Review](./Documents/Code%20Quality%20Review.pdf)
+* [User Story Map](./Documents/User%20Story%20Map/USM.pdf)
+* [Code Quality Review](./Documents/Code%20Quality%20Review/Code%20Quality%20Review.pdf)
+* [Poster](./Documents/Project%20Poster/Poster.pdf)
 
 Concept Art: 
 * [Concept Art](./Concept%20Art)
