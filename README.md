@@ -44,7 +44,7 @@ Presentations:
 * [Scrum Report-Out 25/2/2020](./Presentations/Feb%2025%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
 * [Scrum Report-Out 3/3/2020](./Presentations/Mar%203%202020%20-%20ENSE%20477%20Scrum%20Report-Out.pdf)
 * [Project Bazaar Report-Out 10/3/2020](./Presentations/Mar%2010%202020%20-%20ENSE%20477%20%20Project%20Bazaar%20Day%20Report-Out.pdf)
-* [Project Bazaar Report-Out 10/4/2020](./Presentations/April%2010%202020%20-%20ENSE%20400_477%20Final%20Presentation.pdf)
+* [Final Presentation 10/4/2020](./Presentations/April%2010%202020%20-%20ENSE%20400_477%20Final%20Presentation.pdf)
 
 Final Video Presentation:
 * [Final Video Presentation 10/4/2020](./Presentations/Final%20Video%20Presentation.mp4)
