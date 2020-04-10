@@ -32,15 +32,15 @@ If you have any questions about running the game let us know.
 # Known Issues
 
 Issue 1:
-Player one's attack animation, sound effect, particle effect and knockback trigger even outside of collision range
+Player one's attack animation, sound effect, particle effect and knockback trigger even outside of collision range.
 
 Issue 2:
-If players are playing the same character, player one's health value does not reset properly
+If players are playing the same character, player one's health value does not reset properly.
 
 Issue 3:
-adding sphere collisions to the characters have made the platform logic buggy on the Cosmic Rift Stage. Players no longer transition smoothly while navigating the platforms
+adding sphere collisions to the characters have made the platform logic buggy on the Cosmic Rift Stage. Players no longer transition smoothly while navigating the platforms.
 
-For the best experience we recomend that both players play different characters
+For the best experience we recomend that both players play different characters.
 
 # Quick Links
 
